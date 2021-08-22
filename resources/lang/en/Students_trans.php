@@ -1,0 +1,67 @@
+<?php
+
+return [
+
+    'list_student' => 'list student',
+    'personal_information' => 'personal information',
+    'name' => 'Name',
+    'name_ar' => 'name_ar',
+    'name_en' => 'name_en',
+    'email' => 'email',
+    'password' => 'password',
+    'gender' => 'gender',
+    'Nationality' => 'Nationality',
+    'blood_type' => 'blood_type',
+    'Date_of_Birth' => 'Date_of_Birth',
+    'Student_information' => 'Student information',
+    'Grade' => 'Grade',
+    'classrooms' => 'classrooms',
+    'section' => 'section',
+    'parent' => 'parent',
+    'academic_year' => 'academic_year',
+    'Processes' => 'Processes',
+    'submit' => 'submit',
+    'Close' => 'Close',
+    'Attachments' => 'Attachments',
+    'Student_details' => 'Student Details',
+    'Deleted_Student' => 'Delete student data',
+    'Deleted_Student_tilte' => 'Are you sure to delete the student ?',
+    'Delete_attachment' => 'Delete_attachment',
+    'Delete_attachment_tilte' => 'Are you sure to delete the attachment?',
+    'filename' => 'filename',
+    'created_at' => 'created_at',
+    'Download' => 'Download',
+    'delete' => 'Delete',
+    'old_school_stage' => 'old school stage',
+    'The_new_school_stage' => 'The new school stage',
+    'academic_year' => '  academic year',
+    'academic_year_new' => '  academic year new',
+
+    'Undo_all' => 'Undo all',
+    'Do_you_want_to_undo_all_students' => 'Do you want to undo all students?',
+
+    'The_current_academic_section' => 'The current academic section',
+    'The_current_class' => 'The current class',
+    'The_current_school_year' => 'The current school year',
+    'The_current_school_stage' => 'The current school stage',
+
+    'previous_academic_section' => 'previous academic section',
+    'previous_class' => 'The current class',
+    'previous_school_year' => 'previous school year',
+    'Previous_school_stage' => 'Previous school stage',
+    'students_promotion' => 'students promotion',
+
+    'list_Graduate' => ' list Graduate',
+    'add_Graduate' => 'add Graduate ',
+    'Student_information' => ' Student information',
+    'Graduate_students' => 'Graduate students ',
+    'management_students_promotion' => 'management students promotion',
+    'return_student' => 'return student  ',
+    'delete_student' => ' delete student ',
+    'Are_you_sure_about_canceling_the_graduation_process?' => '  Are you sure about canceling the graduation process?',
+    'Are_you_sure_about_the_student_withdrawal_process
+'=>'Are you sure about the student withdrawal process?
+',
+
+    'add_graduated'=>'add graduated',
+];
